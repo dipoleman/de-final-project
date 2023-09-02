@@ -1,0 +1,12 @@
+venv
+**/*.pyc
+**/.vscode
+**/*_cache
+**/*pycache
+.env
+.coverage
+copy_warehouse.py
+db/OLAP_Data
+db/OLTP_Data
+run.sh
+psql.md
